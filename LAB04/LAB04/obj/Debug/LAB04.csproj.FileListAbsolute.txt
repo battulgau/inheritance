@@ -1,0 +1,13 @@
+c:\users\gugu\documents\visual studio 2013\Projects\LAB04\LAB04\bin\Debug\LAB04.exe.config
+c:\users\gugu\documents\visual studio 2013\Projects\LAB04\LAB04\bin\Debug\LAB04.exe
+c:\users\gugu\documents\visual studio 2013\Projects\LAB04\LAB04\bin\Debug\LAB04.pdb
+c:\users\gugu\documents\visual studio 2013\Projects\LAB04\LAB04\obj\Debug\LAB04.csprojResolveAssemblyReference.cache
+c:\users\gugu\documents\visual studio 2013\Projects\LAB04\LAB04\obj\Debug\LAB04.exe
+c:\users\gugu\documents\visual studio 2013\Projects\LAB04\LAB04\obj\Debug\LAB04.pdb
+C:\Users\User\Desktop\LAB04\LAB04\bin\Debug\LAB04.exe.config
+C:\Users\User\Desktop\LAB04\LAB04\bin\Debug\LAB04.exe
+C:\Users\User\Desktop\LAB04\LAB04\bin\Debug\LAB04.pdb
+C:\Users\User\Desktop\LAB04\LAB04\obj\Debug\LAB04.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LAB04\LAB04\obj\Debug\LAB04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LAB04\LAB04\obj\Debug\LAB04.exe
+C:\Users\User\Desktop\LAB04\LAB04\obj\Debug\LAB04.pdb
